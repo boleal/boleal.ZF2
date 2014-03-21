@@ -15,7 +15,7 @@
         "zendframework/zend-developer-tools": "dev-master",
         "hybridauth/hybridauth": "dev-master",
         "socalnick/scn-social-auth": "dev-master",
-        "bjyoungblood/bjy-authorize": "dev-master",
+        "bjyoungblood/bjy-authorize": "1.4.*",
         "zendframework/zendoauth" : "=2.0.2",     
         "danielss89/zfc-user-admin" : "dev-master"
     }
